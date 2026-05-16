@@ -1,2 +1,10 @@
-# Office temporary lock files
-~$*
+# Ignore everything
+*
+
+# Except these files
+!.gitignore
+!README.md
+!Manual-2026 Final.docx
+!Manual-2026 Final.pdf
+
+# Office temporary lock files are still excluded by the wildcard above
