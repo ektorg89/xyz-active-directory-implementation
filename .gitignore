@@ -6,5 +6,7 @@
 !README.md
 !Manual-2026 Final.docx
 !Manual-2026 Final.pdf
+!screenshots/
+!screenshots/**
 
 # Office temporary lock files are still excluded by the wildcard above
